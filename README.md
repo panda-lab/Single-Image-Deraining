@@ -6,4 +6,10 @@
 
 #### detection algorithm and model
 
-#### data : baiduyun or google drive
+#### data : baiduyun or google drive(Rain in Drive)
+
+#### rain_mist(real + synthetic)
+
+#### rain_streak(real + synthetic)
+
+#### rain_drop(real + synthetic)
