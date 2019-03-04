@@ -8,7 +8,7 @@ You can download the paper from arxiv (wait ... )
 
 #### detection algorithm and model
 
-#### data : baiduyun or google drive(Rain in Drive)
+#### data : baiduyun or google drive(Rain in Drive) ：链接:https://pan.baidu.com/s/1CnPO9m5t6E98ssuTimNpdA 密码:qy5s
 
 #### rain_mist(real + synthetic)
 
