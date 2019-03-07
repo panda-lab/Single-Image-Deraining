@@ -4,7 +4,19 @@ Paper Link:
 
 Abstract: We present a comprehensive study and evaluation of existing single image deraining algorithms, using a new large-scale benchmark consisting of both synthetic and real-world rainy images.This dataset highlights diverse data sources and image contents, and is divided into three subsets (rain streak, rain drop, rain and mist), each serving different training or evaluation purposes. We further provide a rich variety of criteria for dehazing algorithm evaluation, ranging from full-reference metrics, to no-reference metrics, to subjective evaluation and the novel task-driven evaluation. Experiments on the dataset shed light on the comparisons and limitations of state-of-the-art deraining algorithms, and suggest promising future directions.
 
-#### derain model and code ：JORDER , DDN ,DID-MDN,ID-CGAN,GMM,DerainDrop
+#### derain model and code ：
+
+JORDER：
+
+DDN:https://github.com/XMU-smartdsp/Removing_Rain
+
+DID-MDN:https://github.com/hezhangsprinter/DID-MDN
+
+ID-CGAN:https://github.com/TrinhQuocNguyen/Edited_Original_IDCGAN
+
+GMM：https://drive.google.com/file/d/0B5QI9xdWo2K6a2xvWGZGeUVoRlhUQmg1SGtqdjhYdXV1UC1j
+
+DerainDrop:https://github.com/rui1996/DeRaindrop
 
 #### detection algorithm and model : 
 
