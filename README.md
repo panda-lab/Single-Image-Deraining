@@ -53,5 +53,6 @@ year={2019}
 | Rain Streak      | [Real]  | [Synthetic]     | 
 
 
-### Acknowledgments
+#### Special thanks to my teammates @JackYu
+
 
