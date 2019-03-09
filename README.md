@@ -6,7 +6,7 @@ Abstract: We present a comprehensive study and evaluation of existing single ima
 
 #### derain model and code ：
 
-JORDER：
+JORDER：http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
 
 DDN:https://github.com/XMU-smartdsp/Removing_Rain
 
@@ -26,6 +26,8 @@ RetinaNet:https://github.com/fizyr/keras-retinanet (with MSCOCO pretrain model)
 
 YOLOv3: https://github.com/pjreddie/darknet
 
+
+
 (Model: wget https://pjreddie.com/media/files/yolov3.weights)
 
 MobileNet-VGG-512:SSD : https://github.com/FreeApe/VGG-or-MobileNet-SSD
@@ -40,3 +42,6 @@ MobileNet-VGG-512:SSD : https://github.com/FreeApe/VGG-or-MobileNet-SSD
 #### rain_streak(real + synthetic)
 
 #### rain_drop(real + synthetic)
+
+#### Thanks
+
