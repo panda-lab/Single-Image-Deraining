@@ -13,6 +13,16 @@ Abstract: We present a comprehensive study and evaluation of existing single ima
 	  year={2019}
 	}
 
+| Algorithms | Paper Link | Projects Link |  
+| ------------------- | ------------------------------------------------------- | ------------------- |
+|   GMM               | [Paper Link](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Rain_Streak_Removal_CVPR_2016_paper.pdf)         | [Code Link](https://drive.google.com/file/d/0B5QI9xdWo2K6a2xvWGZGeUVoRlhUQmg1SGtqdjhYdXV1UC1j)   |  
+|   DDN               | [Paper Link](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/cvpr2017/cvpr2017.pdf)   |[Code Link](https://github.com/XMU-smartdsp/Removing_Rain)                 |  
+|   JORDER            | [Paper Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)    | [Paper Link](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)             |   
+|   ID-CGAN           | [Paper Link](https://arxiv.org/abs/1701.05957)    |  [Code Link](https://github.com/TrinhQuocNguyen/Edited_Original_IDCGAN)  | 
+|   DerainDrop        | [Paper Link](https://arxiv.org/abs/1711.10098)       | [Code Link](https://github.com/rui1996/DeRaindrop)     |   
+|   DID-MDN           | [Paper Link](https://arxiv.org/abs/1802.07412)    | [Code Link](https://github.com/hezhangsprinter/DID-MDN)             |  
+
+
 #### derain model and code ：
 
 JORDER：http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
