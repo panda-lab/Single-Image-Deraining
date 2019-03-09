@@ -52,5 +52,5 @@ MobileNet-VGG-512:SSD : https://github.com/FreeApe/VGG-or-MobileNet-SSD
 
 #### rain_drop(real + synthetic)
 
-#### Thanks
+### Acknowledgments
 
