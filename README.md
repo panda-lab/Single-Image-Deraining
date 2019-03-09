@@ -9,12 +9,12 @@ Abstract: We present a comprehensive study and evaluation of existing single ima
 #### If you find the resource useful, please cite the following
 
 ```
-	@article{Li2019DerainBenchmark,		
-	  title={Single Image Deraining: A Comprehensive Benchmark Analysis},
-	  author={Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto Hirata Junior, Roberto Cesar-Junior, Jiawan Zhang, Xiaojie Guo and Xiaochun Cao},
-	  journal={IEEE Conference on Computer Vision and Pattern Recognition},
-	  year={2019}
-	}
+@article{Li2019DerainBenchmark,		
+title={Single Image Deraining: A Comprehensive Benchmark Analysis},
+author={Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto Hirata Junior, Roberto Cesar-Junior, Jiawan Zhang, Xiaojie Guo and Xiaochun Cao},
+journal={IEEE Conference on Computer Vision and Pattern Recognition},
+year={2019}
+}
 
 ```
 
