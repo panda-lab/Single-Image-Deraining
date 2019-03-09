@@ -38,11 +38,11 @@ Abstract: We present a comprehensive study and evaluation of existing single ima
 |   SSD-512           | [Code Link](https://github.com/FreeApe/VGG-or-MobileNet-SSD)    | https://drive.google.com/file/d/0BzKzrI_SkD1_NVVNdWdYNEh1WTA/view  | 
 
 
-#### 3. Synthetic Data and Real Data Adopt by Our Paper. 
+#### 3. Synthetic Data and Real Data Adopt in Our Paper. 
 
 | Data Type | Download Link |  Download Link |  
 | ------------------- | ------------------------------------------------------- | ------------------- |
-| Our RID Dataset ( Rain in Driving with Object Label) | [BaiduYun](https://pan.baidu.com/s/1CnPO9m5t6E98ssuTimNpdA) (Pass:qy5s)| [GoogleDrive]|  
+| Our RID Dataset ( Rain in Driving with Object Label) | [BaiduYun](https://pan.baidu.com/s/1CnPO9m5t6E98ssuTimNpdA) ( pass:qy5s )| [GoogleDrive]|  
 | Rain_mist        | [Real]  | [Synthetic]     |  
 | Rain Drop        | [Real]  | [Synthetic]     |   
 | Rain Streak      | [Real]  | [Synthetic]     | 
