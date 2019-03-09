@@ -6,12 +6,17 @@ Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto
 
 Abstract: We present a comprehensive study and evaluation of existing single image deraining algorithms, using a new large-scale benchmark consisting of both synthetic and real-world rainy images.This dataset highlights diverse data sources and image contents, and is divided into three subsets (rain streak, rain drop, rain and mist), each serving different training or evaluation purposes. We further provide a rich variety of criteria for dehazing algorithm evaluation, ranging from full-reference metrics, to no-reference metrics, to subjective evaluation and the novel task-driven evaluation. Experiments on the dataset shed light on the comparisons and limitations of state-of-the-art deraining algorithms, and suggest promising future directions.
 
+#### If you find the resource useful, please cite the following
+
+```
 	@article{Li2019DerainBenchmark,		
 	  title={Single Image Deraining: A Comprehensive Benchmark Analysis},
 	  author={Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto Hirata Junior, Roberto Cesar-Junior, Jiawan Zhang, Xiaojie Guo and Xiaochun Cao},
 	  journal={IEEE Conference on Computer Vision and Pattern Recognition},
 	  year={2019}
 	}
+
+```
 
 #### 1. Derain Code Test by Our Paper.
 
