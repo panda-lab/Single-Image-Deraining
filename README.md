@@ -36,7 +36,7 @@ year={2019}
 #### 2. Detection Code and Model Test by Our Paper. 
 
 
-| Algorithms | Code Link | Model Link |  
+| Algorithms | Code Link | Pretrain Model Link |  
 | ------------------- | ------------------------------------------------------- | ------------------- |
 |   Faster-RCNN       | [Code Link](https://github.com/rbgirshick/py-faster-rcnn)     |  sh./data/scripts/fetch_faster_rcnn_models.sh   |  
 |   RetinaNet         | [Code Link](https://github.com/fizyr/keras-retinanet)   |  MSCOCO pretrain model    |  
