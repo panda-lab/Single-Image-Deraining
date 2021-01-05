@@ -56,6 +56,3 @@ year={2019}
 
 
 
-#### 4. Special thanks to my teammates @[JackYu](https://github.com/szad670401)
-
-
